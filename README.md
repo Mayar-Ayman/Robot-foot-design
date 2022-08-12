@@ -1,7 +1,7 @@
 # Robot-foot-design
 **This Repository demonstrates the design of the joints of the robot as well as the shape of the wheel installation using CEMNA 4D**
 
-* Task1:
+* Task1:\
 In the beginning, the foot was created in a rectangular shape, where the columns represent the leg, which are cylinders, and the joints are also cylinders.
 
 ![image](https://user-images.githubusercontent.com/108824980/184327366-7fb0773e-b903-4890-84bc-6e101d91e716.png)
@@ -21,7 +21,7 @@ Now that the joints are connected and connected, we follow the following steps:
 ![image](https://user-images.githubusercontent.com/108824980/184332209-1e3c62ed-8029-432a-b992-4eaf21ef5ac5.png)
 
 
-* Task2:
+* Task2:\
 Stereoscopic design of the robot 3D for the wheel of the robot (Brushless).
 
 ![image](https://user-images.githubusercontent.com/108824980/184332925-f3fc87ce-dc3d-4b34-8593-c803dca315fc.png)
