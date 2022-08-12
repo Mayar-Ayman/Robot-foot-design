@@ -14,7 +14,7 @@ Now that the joints are connected and connected, we need to fuse these joints wi
 1. The foot is placed in addition to the leg and thigh, and the parts are connected by 3 joints.
 2. After that, choose the command in the top left, which is `Make Editeable`.
 3. Then three parts without joints are identified and linked to the right button of the mouse and choose the command `connect objects+delet`.
-4. Now click on `Character` at the top of the page and then press `Commands` hen `Bind`.
+4. Now click on `Character` at the top of the page and then press `Commands` then `Bind`.
 5.  Select the new object created in step 3 by merging the three objects and associating it with the 4 objects in step 4.
 6.  Now all you have to do is select the first joint that you put with the last joint and choose the order `Create IK Chain` by clicking on the buttun `Character` and then `Commands`.
 
