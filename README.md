@@ -1,5 +1,5 @@
 # Robot-foot-design
-**This Repository demonstrates the design of the joints of the robot as well as the shape of the wheel installation using CEMNA 4D**
+**This Repository demonstrates the design of the joints of the robot as well as the shape of the wheel installation using CEMNA 4D.**
 
 * Task1:\
 In the beginning, the foot was created in a rectangular shape, where the columns represent the leg, which are cylinders, and the joints are also cylinders.
@@ -10,7 +10,7 @@ The first part has been copied and pasted, and the two parts are linked.
 
 ![image](https://user-images.githubusercontent.com/108824980/184328217-479b42f4-3727-4b52-a160-377b4e05ab51.png)
 
-Now that the joints are connected and connected, we follow the following steps:
+Now that the joints are connected and connected, we need to fuse these joints with the foot, and if we want to do that, we follow the following steps.
 1. The foot is placed in addition to the leg and thigh, and the parts are connected by 3 joints.
 2. After that, choose the command in the top left, which is `Make Editeable`.
 3. Then three parts without joints are identified and linked to the right button of the mouse and choose the command `connect objects+delet`.
